@@ -4,7 +4,7 @@ My name is Yiren, I am currently a 3rd year undergraduate studying at McMaster U
 
 I studied math during my first year and switched to computer science program during my second year. I find coding interesting and I have a strong faith that my output can help me survive through the competitions among computer science people. 
 
-This repository shows my self-learning experience for different libraries and understandings of the coding. 
+This repository shows my self-learning experience for different libraries and understandings of the coding. I will try my best to get better.
 
 ## Skills List
 
@@ -41,3 +41,11 @@ LDA analysis among architecture models
 ![plot](./imgs/vgg16.jpg)
 
 Modeling thought process on vgg16 with output of tensorboard.
+
+![plot](./imgs/zhumu.jpg)
+
+fake 3d visualization of zhumulangma mountain
+
+![plot](./imgs/vector_field.jpg)
+
+A simulation of predator-prey model
