@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>表单</title>
+</head>
+<body>
+    收集用户信息
+    需要和用户交互
+    表单域 包含表单元素的区域
+    表单控件
+    提示信息
+    input type : button, checkbox, file, hidden,  image, password, radio, reset, submit, text
+    <form>
+        用户名：<input type="text" name="user" id="" value="请输入用户名" maxlength="6"> <br>
+        密码：<input type="password" name="passw" id=""> <br>
+        单选按钮 需要same name 性别：<label for="1">男</label> <input type="radio" 
+        name="性别" value="男" checked="checked" id="1"> 
+        <label for="2">女</label> <input type="radio" name="性别" value="女" id="2"> <br>
+        多选按钮 吃饭 <input type="checkbox" name="hobby"> 睡觉 <input type="checkbox" name="hobby"> <br>
+        提交 <input type="submit" value="Submit">
+        重置 <input type="reset" value="Reset">
+        获取短信验证码 <input type="button" value="Get SNS">
+        上传头像 <input type="file" name="" id=""> <br>
+        下拉列表 <select name="" id="">
+            <option value="">河南</option>
+            <option value="">东百</option>
+            <option value="" selected="selected">北京爷们</option>
+        </select><br>
+        <textarea name="" id="" cols="30" rows="10">
+            文本内容
+        </textarea>
+        
+    </form>
+</body>
+</html>
