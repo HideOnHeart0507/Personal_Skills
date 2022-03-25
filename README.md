@@ -34,10 +34,10 @@ Not in this repository but I did have experience:
 
 Spider results in csv
 
-![](E:\MY Documents\Documents\GitHub\Personal_Skills\imgs\latent dirichlet analysis.png)
+![plot](./imgs/latent_dirichlet_analysis.png)
 
 LDA analysis among architecture models
 
-![](E:\MY Documents\Documents\GitHub\Personal_Skills\imgs\vgg16.jpg)
+![plot](./imgs/vgg16.jpg)
 
 Modeling thought process on vgg16 with output of tensorboard.
