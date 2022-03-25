@@ -30,7 +30,7 @@ Not in this repository but I did have experience:
 
 ## Image preview of some projects
 
-![](E:\MY Documents\Documents\GitHub\Personal_Skills\imgs\spider day1.png)
+![plot](./imgs/spiderday1.png)
 
 Spider results in csv
 
