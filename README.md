@@ -42,10 +42,10 @@ LDA analysis among architecture models
 
 Modeling thought process on vgg16 with output of tensorboard.
 
-![plot](./imgs/zhumu.jpg)
+![plot](./imgs/zhumu.png)
 
 fake 3d visualization of zhumulangma mountain
 
-![plot](./imgs/vector_field.jpg)
+![plot](./imgs/vector_field.png)
 
 A simulation of predator-prey model
