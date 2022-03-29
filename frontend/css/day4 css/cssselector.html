@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* 标签选择器 只能选择所有某类标签 */
+        div {
+            color: rgb(255, 2, 2);
+        }
+        /* 类选择器 加点变成class名 最好英文*/
+        /* 可以多类名 空格分开 */
+        .green{
+            color: aqua;
+        }
+        .font20{
+            font-size: 200px;
+        }
+        /* id选择器 加井号 样式井号定义 结构id调用 只能调用一次 和javascript搭配*/
+        #yellow {
+            color: yellow;
+        }
+        /* 通配符选择器 * */
+        * {
+            color: black;
+        }
+    </style>
+</head>
+<body>
+    <div>first</div>
+    <div class="green">second</div>
+    <ul>
+        <li>in ul</li>
+        <li class="green font20">in ul</li>
+        <li id="yellow">in ul</li>
+        <li>in ul</li>
+        <li>in ul</li>
+    </ul>
+    <ol>
+        <li>in ol</li>
+        <li>in ol</li>
+        <li>in ol</li>
+        <li>in ol</li>
+        <li>in ol</li>
+    </ol>
+
+</body>
+</html>
