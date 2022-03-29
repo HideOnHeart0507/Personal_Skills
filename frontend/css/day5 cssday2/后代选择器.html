@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        /* change everything in ul li to pink */
+        /* ul li {
+            color: pink;
+        }
+        后代选择器
+        .nav >li {
+            color: pink;
+        } */
+        /* 子选择器 */
+        /* 集体申明 */
+        /* div,
+        p, 
+        .p>li {
+            color: rebeccapurple;
+        } */
+        /* 伪类选择器 用冒号表示 */
+        /* 连接伪类 
+            a:visited  访问
+            a:link 未被访问
+            a: hover 鼠标
+        */
+        a:link {
+            text-decoration: none;
+            color: #333;
+        }
+
+        a:visited {
+            color: rebeccapurple;
+        }
+
+        a:hover {
+            color: blue;
+        }
+
+        a:active {
+            color: green
+        }
+
+        /* focus伪类选择器 */
+        input:focus {
+            background-color: pink;
+        }
+    </style>
+</head>
+
+<body>
+    <ol class="nav">
+        <li>under
+            <ol>
+                <li>aaa</li>
+            </ol>
+        </li>
+    </ol>
+    <ul>
+        <li>wpsj</li>
+        <li>wpsj</li>
+        <li>wpsj</li>
+    </ul>
+    <div>xiongda <a href="#">连接</a></div>
+    <p>xionger</p>
+    <span>guang</span>
+    <ul class="p">
+        <li>
+            pig
+        </li>
+    </ul>
+    <input type="text">
+</body>
+
+</html>
