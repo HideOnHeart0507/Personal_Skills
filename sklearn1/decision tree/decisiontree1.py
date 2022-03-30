@@ -66,7 +66,7 @@ def tree_making():
 
 
 if __name__ == '__main__':
-    
+
     # dict,targets = create_dict()
     # dict = dict_encoding(dict)
     clf = tree_making()
