@@ -61,11 +61,13 @@ def tree_making():
     tree.export_graphviz(clf, out_file=dot_data, feature_names=lenses_pd.keys(),
                          class_names= clf.classes_, filled=True, rounded=True, special_characters=True)
     graph = pydotplus.graph_from_dot_data(dot_data.getvalue())
-    graph.write_pdf('treegraph.pdf')
+    # graph.write_pdf('treegraph.pdf')
+    return clf
 
 
 if __name__ == '__main__':
-     # 生成pandas.DataFrame
+    
     # dict,targets = create_dict()
     # dict = dict_encoding(dict)
-    tree_making()
+    clf = tree_making()
+    print(clf.predict([[1,1,1,0]]))
