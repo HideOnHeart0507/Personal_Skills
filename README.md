@@ -19,6 +19,7 @@ In the repository:
 - front end pages
 - Tensorboard
 - OCR
+- Neo4j
 
 Not in this repository but I did have experience:
 
