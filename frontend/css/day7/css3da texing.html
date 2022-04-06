@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        body {
+            font-size: 14px/1.5;
+        }
+        div {
+            color: rgb(33, 0, 0);
+        
+        }
+        div {
+            color: red;
+        }
+        /* 0001 */
+        li {
+            color: red;
+        }
+        /* 0002 权重叠加 无进位*/
+        ul li {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+    <div>层叠性,就近原则，冲突覆盖
+        <p>继承性 继承文字样式 子元素根据大小自动调整行高
+            优先级 选择器相同 执行层叠性 !important > 行内样式>ID>类>元素
+            继承下来的 权重为0
+        </p>
+    </div>
+    <ul>
+        <li>1</li>
+        <li>2</li>
+        <li>3</li>
+        <li>4</li>
+    </ul>
+</body>
+</html>
