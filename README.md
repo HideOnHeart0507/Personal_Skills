@@ -20,6 +20,8 @@ In the repository:
 - Tensorboard
 - OCR
 - Neo4j
+- OpenCV
+- Yolo
 
 Not in this repository but I did have experience:
 
