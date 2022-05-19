@@ -56,3 +56,7 @@ A simulation of predator-prey model
 ![plot](./imgs/project1overview.png)
 
 Neo4j project about knowledge graph for architectures.
+
+![plot](./imgs/snake.png)
+
+A small snake game made using opencv and mediapipe
