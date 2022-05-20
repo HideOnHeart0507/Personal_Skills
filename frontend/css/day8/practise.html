@@ -21,7 +21,6 @@
         .right {
             float: left;
             width: 992px;
-            height: 615px;
             background-color: blue;
         }
         .right>div {
@@ -32,10 +31,23 @@
             margin-left: 14px;
             margin-bottom: 14px;
         }
+        .clear {
+            clear:both;
+        }
+        .clearfix:after {
+            content: "";
+            display: block;
+            height: 0;
+            clear: both;
+            visibility: hidden;
+        }
+        .clearfix {
+            *zoom: 1;
+        }
     </style>
 </head>
 <body>
-    <div class="box">
+    <div class="box clearfix">
         <div class="left">左青龙</div>
         <div class="right">右白虎
             <div>1</div>
@@ -46,6 +58,7 @@
             <div>6</div>
             <div>7</div>
             <div>8</div>
+            <div class="clear"></div>
         </div>
     </div>
 </body>
