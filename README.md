@@ -22,6 +22,10 @@ In the repository:
 - Neo4j
 - OpenCV
 - Yolo
+- Node.js
+- Springboot
+- Ubuntu
+- nginx
 
 Not in this repository but I did have experience:
 
@@ -60,3 +64,4 @@ Neo4j project about knowledge graph for architectures.
 ![plot](./imgs/snake.png)
 
 A small snake game made using opencv and mediapipe
+An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words
