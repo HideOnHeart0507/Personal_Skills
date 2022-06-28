@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Yiren, I am currently a 3rd year undergraduate studying at McMaster University. My program is Math and Computer Science and my future research direction is data science/ data learning related area. 
+My name is Yiren, I am currently a 4th year undergraduate studying at McMaster University. My program is Math and Computer Science and my future research direction is data science/ data learning related area. 
 
 I studied math during my first year and switched to computer science program during my second year. I find coding interesting and I have a strong faith that my output can help me survive through the competitions among computer science people. 
 
