@@ -64,4 +64,4 @@ Neo4j project about knowledge graph for architectures.
 ![plot](./imgs/snake.png)
 
 A small snake game made using opencv and mediapipe
-An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words
+An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words 121.196.96.223
