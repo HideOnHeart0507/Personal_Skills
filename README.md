@@ -1,6 +1,6 @@
 # Introduction
 
-My name is Yiren, I am currently a 3rd year undergraduate studying at McMaster University. My program is Math and Computer Science and my future research direction is data science/ data learning related area. 
+My name is Yiren, I am currently a 4th year undergraduate studying at McMaster University. My program is Math and Computer Science and my future research direction is data science/ data learning related area. 
 
 I studied math during my first year and switched to computer science program during my second year. I find coding interesting and I have a strong faith that my output can help me survive through the competitions among computer science people. 
 
@@ -22,6 +22,10 @@ In the repository:
 - Neo4j
 - OpenCV
 - Yolo
+- Node.js
+- Springboot
+- Ubuntu
+- nginx
 
 Not in this repository but I did have experience:
 
@@ -60,3 +64,4 @@ Neo4j project about knowledge graph for architectures.
 ![plot](./imgs/snake.png)
 
 A small snake game made using opencv and mediapipe
+An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words 121.196.96.223
