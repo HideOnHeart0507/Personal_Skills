@@ -65,4 +65,9 @@ Neo4j project about knowledge graph for architectures.
 ![plot](./imgs/snake.png)
 
 A small snake game made using opencv and mediapipe
+
+![plot](./imgs/facedetect.png)
+A face detection project which feeds database training pictures in order to detect uncovered faces.
+
+![plot](./imgs/neo4j-website.png)
 An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words 121.196.96.223
