@@ -46,10 +46,6 @@ Spider results in csv
 
 LDA analysis among architecture models
 
-![plot](./imgs/vgg16.jpg)
-
-Modeling thought process on vgg16 with output of tensorboard.
-
 ![plot](./imgs/zhumu.png)
 
 fake 3d visualization of zhumulangma mountain
@@ -71,3 +67,9 @@ A face detection project which feeds database training pictures in order to dete
 
 ![plot](./imgs/neo4j-website.png)
 An online website which uses the model from https://github.com/MiracleTanC/Neo4j-KGBuilder to help make an interactive neo4j knowledge graph of architecture words 121.196.96.223
+
+![plot](./imgs/yolov5.png)
+yolov5 training experience with google colab
+
+![plot](./imgs/annotation.png)
+annotation experience with mannual taken pictures
