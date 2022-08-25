@@ -26,6 +26,7 @@ In the repository:
 - Springboot
 - Ubuntu
 - nginx
+- jupyter notebook
 
 Not in this repository but I did have experience:
 
